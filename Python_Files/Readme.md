@@ -1,4 +1,4 @@
-These are the python files.<br>
+These are the python files that should be run on the system after the Arduino UNO is connected.<br>
 
 ser = s.Serial('/dev/ttyACM1', 9800, timeout=1)<br>
 
